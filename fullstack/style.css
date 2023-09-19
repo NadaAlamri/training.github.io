@@ -44,8 +44,11 @@ border-color: black;
 border-top: none;
 border-right: none;
 	float:  right;
-	margin: -10px;
+	margin-top: -10px;
+    margin-right: -10px;
+
 	clear: both;
+  width: 100px;
 }
   .left {
     padding: 10px;
